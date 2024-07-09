@@ -19,7 +19,7 @@ import io.restassured.specification.RequestSpecification;
  * 
  */
 
-public class GETAPIRequestTest {
+public class GETAPIRequestWithoutBDD {
 
 	RequestSpecification request;
 	
