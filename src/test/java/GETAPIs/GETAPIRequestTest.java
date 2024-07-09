@@ -13,6 +13,12 @@ import io.restassured.http.Header;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 
+/*
+ * 
+ * Author: Jayanta Kumar Panda
+ * 
+ */
+
 public class GETAPIRequestTest {
 
 	RequestSpecification request;
